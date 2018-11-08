@@ -6,3 +6,10 @@ output:
   html_document:
     df_print: paged
 ---
+
+
+```{bash}
+ls -F /
+```
+
+Just an introductory lesson. 
