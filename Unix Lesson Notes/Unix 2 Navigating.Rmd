@@ -1,0 +1,8 @@
+---
+title: "Unix 2 Navigating Files and Directories"
+author: "Kelsey Deaton"
+date: '2018-11-08'
+output:
+  html_document:
+    df_print: paged
+---
