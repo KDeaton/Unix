@@ -1,0 +1,8 @@
+---
+title: 'Unix 1: Introduction'
+author: "Kelsey Deaton"
+date: '2018-11-08'
+output:
+  html_document:
+    df_print: paged
+---
