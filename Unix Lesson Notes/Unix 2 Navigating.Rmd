@@ -6,3 +6,41 @@ output:
   html_document:
     df_print: paged
 ---
+
+pwd = present working directory
+
+```{bash}
+pwd
+```
+
+```{bash}
+ls --help
+```
+
+```{bash}
+ls -l -h
+```
+
+```{bash}
+man ls
+```
+
+```{bash}
+pwd
+
+```
+
+
+#Important directory syntax
+
+~ = home directory
+. = current directory
+.. = above directory (folder that contains current directory)
+/ = root directory
+
+```{bash}
+wget https://swcarpentry.github.io/shell-novice/data/data-shell.zip
+unzip data-shell.zip
+
+```
+
